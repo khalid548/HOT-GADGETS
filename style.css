@@ -1,6 +1,7 @@
 .container{
     margin-bottom: 100px;
 }
+
 .carousel-item{
     padding: 20px 40px;
 }
@@ -23,4 +24,9 @@
 }
 .cat{
     text-align: center;
+}
+#categories img{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 30px;
+
 }
